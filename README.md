@@ -20,3 +20,5 @@ You may use the editor for non-commercial websites for free under the [Creative 
 
 Froala Editor has [4 different licenses](http://editor.froala.com/download/) for commercial use.
 For details please see [License Agreement](http://editor.froala.com/license).
+
+Made by [![Professional Meteor Development Studio](http://s30.postimg.org/jfno1g71p/jss_xs.png)](http://jssolutionsdev.com) - [Professional Meteor Development Company](http://jssolutionsdev.com)
